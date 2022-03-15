@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FragmentActivityfix</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Ini adalah Home</string>
+    <string name="info">Ini adalah Info</string>
+</resources>
